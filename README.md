@@ -620,6 +620,7 @@ Pada class Database.java terdapat atribut mysqlconfig, st, con, dan rs. Terdapat
 ![image](https://github.com/kelompok-23-PA-Mitsubishi/UAS-PBO/assets/122031507/37f30e93-110d-4f43-942d-9ed6edd54882)
 
 Pada role Manager, hanya dapat melakukan Read. Pada menu manager, akan ditampilkan table pendataan konfigurasi kendaraan truk dan mobil.
+
 ![image](https://github.com/kelompok-23-PA-Mitsubishi/UAS-PBO/assets/122031507/ddf41bdf-0edf-49d2-8724-2104aabccaf0)
 
 
@@ -648,7 +649,7 @@ Terdapat beberapa pilihan yang dapat dipilih oleh admin, yaitu:
     - **Tambah Mobil** - Pada halaman ini, admin dapat menambahkan data mobil.
     - **Hapus Mobil** - Pada halaman ini, admin dapat menghapus data mobil.
     - **Ubah Mobil** - Pada halaman ini, admin dapat mengubah data mobil.
-    - 
+      
  ![image](https://github.com/kelompok-23-PA-Mitsubishi/UAS-PBO/assets/122031507/675419e5-57d2-4552-8aff-64121153622a)
 
 
