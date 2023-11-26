@@ -30,7 +30,7 @@
 Program ini merupakan program yang dapat digunakan untuk mengatur konfigurasi kendaraan pada pabrik Mitsubishi. Program ini dapat digunakan untuk mengatur konfigurasi kendaraan berdasarkan tipe kendaraan, warna, dan fitur-fitur yang ada pada kendaraan. Program ini juga dapat digunakan untuk mendata opsi kendaraan berdasarkan konfigurasi yang telah dipilih. Program ini dibuat menggunakan bahasa pemrograman Java Swing.
 
 ## Flowchart
-![PA FLOWCHART PBO](https://github.com/kelompok-23-PA-Mitsubishi/pbo-dbd-pa/assets/122195566/ce949250-dce9-474d-ac18-0dddfe87fafb)
+![image](https://github.com/kelompok-23-PA-Mitsubishi/UAS-PBO/assets/122031507/bb013a23-705c-4b85-ac15-44a67cdd7df0)
 
 ## Entity Relationship Diagram
 ### Logical Model
@@ -617,31 +617,39 @@ Pada class Database.java terdapat atribut mysqlconfig, st, con, dan rs. Terdapat
 
 ## Screenshot Output Program
 ### Login sebagai Manajer
-![image](https://github.com/kelompok-23-PA-Mitsubishi/pbo-dbd-pa/assets/122195566/be3f4975-29c5-4353-8dbe-518b8de18935)
+![image](https://github.com/kelompok-23-PA-Mitsubishi/UAS-PBO/assets/122031507/37f30e93-110d-4f43-942d-9ed6edd54882)
 
-Pada halaman login, user dapat memasukkan username dan password. 
+Pada role Manager, hanya dapat melakukan Read. Pada menu manager, akan ditampilkan table pendataan konfigurasi kendaraan truk dan mobil.
+![image](https://github.com/kelompok-23-PA-Mitsubishi/UAS-PBO/assets/122031507/ddf41bdf-0edf-49d2-8724-2104aabccaf0)
 
-![image](https://github.com/kelompok-23-PA-Mitsubishi/pbo-dbd-pa/assets/122195566/85aea32e-96bc-42a3-8649-b333a3d3bf1f)
 
-Memilih login sebagai Manajer akan menampilkan halaman Manajer.
+Pada menu manager juga terdapat pilihan “DOCUMENT”, dimana berisi ID dokumen, tipe dokumen dan tanggal dibuat dokumen tersebut.
 
-![image](https://github.com/kelompok-23-PA-Mitsubishi/pbo-dbd-pa/assets/122195566/f24958da-5471-49fc-8112-211a9a2a444f)
+![image](https://github.com/kelompok-23-PA-Mitsubishi/UAS-PBO/assets/122031507/858fda3e-9a43-40cc-9161-3fb24b9ba5e4)
+![image](https://github.com/kelompok-23-PA-Mitsubishi/UAS-PBO/assets/122031507/a25b3230-cf01-49b5-a44a-907282ebedf9)
+
 
 ### Login sebagai Admin
 
 Terdapat beberapa pilihan yang dapat dipilih oleh admin, yaitu:
 
-![image](https://github.com/kelompok-23-PA-Mitsubishi/pbo-dbd-pa/assets/122195566/dcca5d04-f691-41ff-80d3-8e276283bda4)
+![image](https://github.com/kelompok-23-PA-Mitsubishi/UAS-PBO/assets/122031507/005ed4ae-8267-42b6-86e1-69585d8cc2cd)
+
 
 - **Truk** - Pada halaman ini, admin dapat menambahkan, menghapus, dan mengubah data truk. 
     - **Tambah Truk** - Pada halaman ini, admin dapat menambahkan data truk.
     - **Hapus Truk** - Pada halaman ini, admin dapat menghapus data truk.
     - **Ubah Truk** - Pada halaman ini, admin dapat mengubah data truk.
 
+![image](https://github.com/kelompok-23-PA-Mitsubishi/UAS-PBO/assets/122031507/fc79fd1f-e685-4fec-b0fc-e91754b0e52f)
 
 
 - **Car** - Pada halaman ini, admin dapat menambahkan, menghapus, dan mengubah data mobil. 
     - **Tambah Mobil** - Pada halaman ini, admin dapat menambahkan data mobil.
     - **Hapus Mobil** - Pada halaman ini, admin dapat menghapus data mobil.
     - **Ubah Mobil** - Pada halaman ini, admin dapat mengubah data mobil.
+    - 
+ ![image](https://github.com/kelompok-23-PA-Mitsubishi/UAS-PBO/assets/122031507/675419e5-57d2-4552-8aff-64121153622a)
+
+
 
