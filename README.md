@@ -34,7 +34,7 @@ Program ini merupakan program yang dapat digunakan untuk mengatur konfigurasi ke
 
 ## Entity Relationship Diagram
 ### Logical Model
-![WhatsApp Image 2023-11-03 at 23 30 57_3fa23591](https://github.com/kelompok-23-PA-Mitsubishi/pbo-dbd-pa/assets/122195566/2257dd9a-520f-4fba-abc5-9f8c30b63f5f)
+![image](https://github.com/kelompok-23-PA-Mitsubishi/UAS-PBO/assets/122031507/53f3a2c2-a946-4e94-a278-89ee1a60aea0)
 
 ### Relational model
 ![WhatsApp Image 2023-11-03 at 23 30 10_ae030ea7](https://github.com/kelompok-23-PA-Mitsubishi/pbo-dbd-pa/assets/122195566/2760e3e6-4625-4162-99f5-e97154e3376a)
